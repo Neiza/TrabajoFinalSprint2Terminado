@@ -11,7 +11,6 @@ function Print1(){
                                       "<li>Objetos</li>"+ "</ol>";
 
                   texto1.innerHTML="<br><b>Sprint 01: Introducción a Javascript</b> <br>" + lista1;
-                  quiz1.innerHTML =document.getElementById("q1").value;
       })
 }
 
